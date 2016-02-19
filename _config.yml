@@ -1,6 +1,6 @@
 name: mogely
 favicon: null
-layout_spectrum: 0.8909122841432691
+layout_spectrum: 0.18319
 typography_spectrum: 0.5098067524377257
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#666666'
     - '#ffffff'
     - '#333333'
-  brandStrength: 1
-  lightness: 0.6875
-  saturation: 1
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
